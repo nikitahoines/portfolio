@@ -146,16 +146,7 @@ footer a p {
     max-width: 100%;
     overflow: hidden;
     margin-bottom: 3%;
-}
-
-/* Shaky Isles Page */
-
-.shaky-images {
-    display: flex;
-}
-
-.shaky-image {
-    max-width: 100%;
+	flex-wrap: wrap;
 }
 
 
